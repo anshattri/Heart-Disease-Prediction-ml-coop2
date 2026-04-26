@@ -1,5 +1,3 @@
-# Heart-Disease-Prediction-ml-coop2
-
 # Heart Disease Prediction using Machine Learning
 
 ## 📌 Overview
