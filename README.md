@@ -1,5 +1,11 @@
 # Heart Disease Prediction using Machine Learning
 
+## Team Members
+1. Ansh - 2210991288
+2. Jatin Dhingra - 2210991708
+3. Karan - 2210991748
+4. Suryansh Chabba - 2210992424
+
 ## 📌 Overview
 This project focuses on predicting heart disease using supervised machine learning algorithms. The goal is to assist in early diagnosis and improve healthcare decision-making.
 
